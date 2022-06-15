@@ -62,7 +62,7 @@ this list of PLATES belongs to 2.50.00 and there are 26 PLATES available in this
 
 211018-特盛えりざべす (Elizabeth Chibi)
 
-211019-アールボックス報酬 (Favorite)
+211019-アールボックス報酬
 
 211020-Spring
 
