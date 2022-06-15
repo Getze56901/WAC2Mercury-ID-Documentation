@@ -67,15 +67,15 @@ this list of PLATES belongs to 2.50.00 and there are 26 PLATES available in this
 
 211005- プリティーリズム・レインボーライブ (Pretty Rhythm: Rainbow Live Plate)
 
-![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/5.jpg)
+![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/5.png)
 
 211006-プリパラ (PriPara Plate)
 
-![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/6.jpg)
+![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/6.png)
 
 211007-キラッとプリ☆チャン (Kiratto Pri Chan Plate)
 
-![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/7.jpg)
+![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/7.png)
 
 211008-ヘスティア (Hestia From DanMachi Plate)
 
@@ -87,7 +87,7 @@ this list of PLATES belongs to 2.50.00 and there are 26 PLATES available in this
 
 211010-早苗 (Sanae Kochiya From Touhou Project Plate)
 
-![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/10.jpg)
+![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/10.png)
 
 211011-兎田ぺこら (Usada Pekora From Hololive Plate)
 
@@ -115,7 +115,7 @@ this list of PLATES belongs to 2.50.00 and there are 26 PLATES available in this
 
 211017-セイネ (Eriko Kawakami From Groove Coaster)
 
-![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/17.jpg)
+![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/17.png)
 
 211018-特盛えりざべす (Elizabeth Chibi)
 
@@ -143,7 +143,7 @@ this list of PLATES belongs to 2.50.00 and there are 26 PLATES available in this
 
 211024-Lanota (Lanota Plate)
 
-![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/24.jpg)
+![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/24.png)
 
 211025-イースター (Lily's Lazy)
 
