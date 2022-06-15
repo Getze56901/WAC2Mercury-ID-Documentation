@@ -17,9 +17,9 @@ this list of NAVIGATORS belongs to 2.50.00 and there are 9 NAVIGATORS available 
 
 210057-Sakura Miko (From HOLOLIVE)
 
-210058-Shirankami Fubuki (From HOLOLIVE)
+210058-Shirakami Fubuki (From HOLOLIVE)
 
-210059-Hoshimaru Suisei (From HOLOLIVE)
+210059-Hoshimachi Suisei (From HOLOLIVE)
 
 210060-Eriko Kawakami (From Groove Coaster)
 
