@@ -77,3 +77,6 @@ this list of PLATES belongs to 2.50.00 and there are 26 PLATES available in this
 211025-イースター (Lily's Lazy)
 
 211026-特盛りりぃ (Lily Chibi)
+
+# Icon ID
+Coming Soon: Under Construction
