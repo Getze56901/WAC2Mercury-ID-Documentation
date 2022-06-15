@@ -34,7 +34,7 @@ this list of PLATES belongs to 2.50.00 and there are 26 PLATES available in this
 
 211001-デフォルト (Default Plate)
 
-![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/Assets/1.jpg)
+![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/1.jpg)
 
 211002-エリザベス (Elizabeth Plate)
 
