@@ -1,4 +1,6 @@
 # W4CCA2Mercury ID Documentation
+![Welcome](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/Assets/Welcome.webp)
+
 a documentation about the Icons, NamePlate, Plate, Navigators IDs for W4CC4 Mercury 2.50.00
 # Where to locate the IDs?
 The table with the IDs is located in the folder Mercury\Content\Table (No details will be given on how to add this to the program and how to extract it)
