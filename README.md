@@ -74,23 +74,43 @@ this list of PLATES belongs to 2.50.00 and there are 26 PLATES available in this
 
 211011-兎田ぺこら (Usada Pekora From Hololive Plate)
 
+![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/11.jpg)
+
 211012-さくらみこ (Sakura Miko From Hololive Plate)
+
+![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/12.jpg)
 
 211013-白上フブキ (Shirakami Fubuki From Hololive Plate)
 
+![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/13.jpg)
+
 211014-星街すいせい (Hoshimachi Suisei From Hololive Plate)
+
+![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/14.jpg)
 
 211015-ときのそら (Tokino Sora From Hololive Plate)
 
+![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/15.jpg)
+
 211016-AZKI (AZKI From Hololive Plate)
+
+![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/16.jpg)
 
 211017-セイネ (Eriko Kawakami From Groove Coaster)
 
+![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/17.jpg)
+
 211018-特盛えりざべす (Elizabeth Chibi)
+
+![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/18.jpg)
 
 211019-アールボックス報酬
 
+![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/19.jpg)
+
 211020-Spring
+
+![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/20.jpg)
 
 211021-Summer
 
