@@ -114,15 +114,27 @@ this list of PLATES belongs to 2.50.00 and there are 26 PLATES available in this
 
 211021-Summer
 
+![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/21.jpg)
+
 211022-Autumn
+
+![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/22.jpg)
 
 211023-Winter
 
+![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/23.jpg)
+
 211024-Lanota (Lanota Plate)
+
+![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/24.jpg)
 
 211025-イースター (Lily's Lazy)
 
+![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/25.jpg)
+
 211026-特盛りりぃ (Lily Chibi)
+
+![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/26.jpg)
 
 # Icon ID
 Coming Soon: Under Construction
