@@ -12,39 +12,39 @@ this list of NAVIGATORS belongs to 2.50.00 and there are 9 NAVIGATORS available 
 
 210001-Elizabeth
 
-![Navigator](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/NavigatorAssets/1.jpg)
+![Navigator](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/NavigatorAssets/1.png)
 
 210002-Lily
 
-![Navigator](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/NavigatorAssets/2.jpg)
+![Navigator](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/NavigatorAssets/2.png)
 
 210054-Hestia (From DanMachi)
 
-![Navigator](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/NavigatorAssets/3.jpg)
+![Navigator](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/NavigatorAssets/3.png)
 
 210055-Aiz Wallenstein (From DanMachi)
 
-![Navigator](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/NavigatorAssets/4.jpg)
+![Navigator](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/NavigatorAssets/4.png)
 
 210056-Usada Pekora (From HOLOLIVE)
 
-![Navigator](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/NavigatorAssets/5.jpg)
+![Navigator](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/NavigatorAssets/5.png)
 
 210057-Sakura Miko (From HOLOLIVE)
 
-![Navigator](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/NavigatorAssets/6.jpg)
+![Navigator](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/NavigatorAssets/6.png)
 
 210058-Shirakami Fubuki (From HOLOLIVE)
 
-![Navigator](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/NavigatorAssets/7.jpg)
+![Navigator](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/NavigatorAssets/7.png)
 
 210059-Hoshimachi Suisei (From HOLOLIVE)
 
-![Navigator](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/NavigatorAssets/8.jpg)
+![Navigator](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/NavigatorAssets/8.png)
 
 210060-Eriko Kawakami (From Groove Coaster)
 
-![Navigator](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/NavigatorAssets/9.jpg)
+![Navigator](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/NavigatorAssets/9.png)
 
 # Plate ID
 this list of PLATES belongs to 2.50.00 and there are 26 PLATES available in this version
