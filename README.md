@@ -38,21 +38,39 @@ this list of PLATES belongs to 2.50.00 and there are 26 PLATES available in this
 
 211002-エリザベス (Elizabeth Plate)
 
+![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/2.jpg)
+
 211003-リリィ (Lily Plate)
+
+![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/3.jpg)
 
 211004-リッチ
 
+![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/4.jpg)
+
 211005- プリティーリズム・レインボーライブ (Pretty Rhythm: Rainbow Live Plate)
+
+![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/5.jpg)
 
 211006-プリパラ (PriPara Plate)
 
+![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/6.jpg)
+
 211007-キラッとプリ☆チャン (Kiratto Pri Chan Plate)
+
+![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/7.jpg)
 
 211008-ヘスティア (Hestia From DanMachi Plate)
 
+![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/8.jpg)
+
 211009-アイズ・ヴァレンシュタイン (Aiz Wallenstein From DanMachi Plate)
 
+![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/9.jpg)
+
 211010-早苗 (Sanae Kochiya From Touhou Project Plate)
+
+![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/10.jpg)
 
 211011-兎田ぺこら (Usada Pekora From Hololive Plate)
 
