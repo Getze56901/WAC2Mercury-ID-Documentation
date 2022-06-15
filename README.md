@@ -51,19 +51,19 @@ this list of PLATES belongs to 2.50.00 and there are 26 PLATES available in this
 
 211001-デフォルト (Default Plate)
 
-![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/1.jpg)
+![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/1.png)
 
 211002-エリザベス (Elizabeth Plate)
 
-![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/2.jpg)
+![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/2.png)
 
 211003-リリィ (Lily Plate)
 
-![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/3.jpg)
+![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/3.png)
 
 211004-リッチ
 
-![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/4.jpg)
+![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/4.png)
 
 211005- プリティーリズム・レインボーライブ (Pretty Rhythm: Rainbow Live Plate)
 
@@ -79,11 +79,11 @@ this list of PLATES belongs to 2.50.00 and there are 26 PLATES available in this
 
 211008-ヘスティア (Hestia From DanMachi Plate)
 
-![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/8.jpg)
+![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/8.png)
 
 211009-アイズ・ヴァレンシュタイン (Aiz Wallenstein From DanMachi Plate)
 
-![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/9.jpg)
+![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/9.png)
 
 211010-早苗 (Sanae Kochiya From Touhou Project Plate)
 
@@ -91,27 +91,27 @@ this list of PLATES belongs to 2.50.00 and there are 26 PLATES available in this
 
 211011-兎田ぺこら (Usada Pekora From Hololive Plate)
 
-![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/11.jpg)
+![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/11.png)
 
 211012-さくらみこ (Sakura Miko From Hololive Plate)
 
-![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/12.jpg)
+![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/12.png)
 
 211013-白上フブキ (Shirakami Fubuki From Hololive Plate)
 
-![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/13.jpg)
+![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/13.png)
 
 211014-星街すいせい (Hoshimachi Suisei From Hololive Plate)
 
-![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/14.jpg)
+![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/14.png)
 
 211015-ときのそら (Tokino Sora From Hololive Plate)
 
-![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/15.jpg)
+![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/15.png)
 
 211016-AZKI (AZKI From Hololive Plate)
 
-![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/16.jpg)
+![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/16.png)
 
 211017-セイネ (Eriko Kawakami From Groove Coaster)
 
@@ -119,27 +119,27 @@ this list of PLATES belongs to 2.50.00 and there are 26 PLATES available in this
 
 211018-特盛えりざべす (Elizabeth Chibi)
 
-![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/18.jpg)
+![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/18.png)
 
 211019-アールボックス報酬
 
-![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/19.jpg)
+![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/19.png)
 
 211020-Spring
 
-![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/20.jpg)
+![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/20.png)
 
 211021-Summer
 
-![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/21.jpg)
+![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/21.png)
 
 211022-Autumn
 
-![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/22.jpg)
+![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/22.png)
 
 211023-Winter
 
-![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/23.jpg)
+![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/23.png)
 
 211024-Lanota (Lanota Plate)
 
@@ -147,11 +147,11 @@ this list of PLATES belongs to 2.50.00 and there are 26 PLATES available in this
 
 211025-イースター (Lily's Lazy)
 
-![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/25.jpg)
+![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/25.png)
 
 211026-特盛りりぃ (Lily Chibi)
 
-![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/26.jpg)
+![Plate](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/PlateAssets/26.png)
 
 # Icon ID
 Coming Soon: Under Construction
