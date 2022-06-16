@@ -159,4 +159,4 @@ In this part we will divide it into S01 (1.00.06/1.50.06) and S02 (2.00.06/2.50.
 # S01
 #### Collaboration
 
-102067-Hardcore TANO C Mascot Icon ![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/102067.png)
+102067-Hardcore TANO C Mascot Icon ![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01Collab/102067.png
