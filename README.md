@@ -163,6 +163,8 @@ this list of PLATES belongs to 2.50.00 and there are 26 PLATES available in this
 In this part we will divide it into S01 (1.00.06/1.50.06) and S02 (2.00.06/2.50.00) and also split if it is a collaboration icon or original.
 
 # S01
+These icons belong to 1.00.06/1.50.00 but are available in 2.50.00
+
 #### Collaboration
 
 102067-Hardcore TANO C Mascot Icon 1
