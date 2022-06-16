@@ -4,11 +4,11 @@ a documentation about the Icons, NamePlate, Plate, Navigators IDs for W4CC4 Merc
 
 **Table of Contents**
 
-- [Where to locate the ID](#Where to locate the IDs?)
-- [Navigator ID](#Navigator ID)
-- [Plate ID](#Plate ID)
-- [Icon ID](#Icon ID)
-  - [S01](#S01)
+   - [Where to locate the ID](#Where to locate the IDs?)
+   - [Navigator ID](#Navigator ID)
+   - [Plate ID](#Plate ID)
+   - [Icon ID](#Icon ID)
+   - [S01](#S01)
    - [Collaboration](#Collaboration)
    - [Original](#Original)
 
