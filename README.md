@@ -159,7 +159,106 @@ In this part we will divide it into S01 (1.00.06/1.50.06) and S02 (2.00.06/2.50.
 # S01
 #### Collaboration
 
-102067-Hardcore TANO C Mascot Icon
+102067-Hardcore TANO C Mascot Icon 1
 
 ![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01Collab/102067.png)
 
+102068-Reimu Hakurei Icon
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01Collab/102068.png)
+
+102069-Marisa Kirisame Icon
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01Collab/102069.png)
+
+102070-Kizuna AI Icon 1
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01Collab/102070.png)
+
+102071-Kizuna AI Icon 2
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01Collab/102071.png)
+
+102072-Kizuna AI Icon 3
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01Collab/102072.png)
+
+102092-Tokino Sora Icon 1
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01Collab/102092.png)
+
+102093-AZKI Icon 1
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01Collab/102093.png)
+
+102094-Tokino Sora Icon 2
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01Collab/102094.png)
+
+102095-AZKI Icon 2
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01Collab/102095.png)
+
+102099-Sanae Kochiya Icon
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01Collab/102099.png)
+
+102100-Linka Icon 1
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01Collab/102100.png)
+
+102101-Yume Icon 1
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01Collab/102101.png)
+
+102102-Seine Icon 1
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01Collab/102102.png)
+
+102103-Linka Icon 2
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01Collab/102103.png)
+
+102104-Yume Icon 2
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01Collab/102104.png)
+
+102105-Seine Icon 2
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01Collab/102105.png)
+
+102106-Groove Coaster Icon
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01Collab/102106.png)
+
+102108-Maika Sakuranomiya Icon
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01Collab/102108.png)
+
+102109-Kaho Hinata Icon
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01Collab/102109.png)
+
+102110-Mafuyu Hoshikawa Icon
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01Collab/102110.png)
+
+102111-Miu Amano Icon
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01Collab/102111.png)
+
+102112-Hideri Kanzaki Icon
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01Collab/102112.png)
+
+102113-Kouyou Akizuki Icon
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01Collab/102113.png)
+
+102114-Dino Icon
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01Collab/102114.png)
+
+102115-Hardcore TANO C Mascot Icon 2
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01Collab/102115.png)
