@@ -3,6 +3,9 @@ a documentation about the Icons, NamePlate, Plate, Navigators IDs for W4CC4 Merc
 ![Welcome](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/Assets/Welcome.webp)
 
 **Table of Contents**
+   - [Where to locate the IDs?](#Where-to-locate-the-IDs?)
+   - [Navigator ID](#Navigator-ID)
+   - [Plate ID](#Plate-ID)
    - [Icon ID](#Icon-ID)
    - [S01](#S01)
    - [Collaboration](#Collaboration)
