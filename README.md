@@ -275,6 +275,7 @@ These icons belong to 1.00.06/1.50.00 but are available in 2.50.00
 ![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01Collab/102115.png)
 
 #### Original
-Coming Soon: Under Construction
 
-![Fail](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/Assets/Fail.webp)
+102001-WACCA LOGO (DEFAULT ICON)
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102001.png)
