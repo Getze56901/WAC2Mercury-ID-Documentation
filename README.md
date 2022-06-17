@@ -491,3 +491,47 @@ These icons belong to 1.00.06/1.50.00 but are available in 2.50.00
 102080-Course Level III
 
 ![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102080.png)
+
+102081-Couse Level IV
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102081.png)
+
+102082-Course Level V
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102082.png)
+
+102083-Course Level VI
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102083.png)
+
+102084-Course Level VII
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102084.png)
+
+102085-Course Level VIII
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102085.png)
+
+102086-Course Level IX
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102086.png)
+
+102087-Course Level X
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102087.png)
+
+102088-Course Level XI
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102088.png)
+
+102089-Course Level XII
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102089.png)
+
+102090-Course Level XIII
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102090.png)
+
+102091-Course Level XIV
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102091.png)
