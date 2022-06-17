@@ -279,3 +279,19 @@ These icons belong to 1.00.06/1.50.00 but are available in 2.50.00
 102001-WACCA LOGO (DEFAULT ICON)
 
 ![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102001.png)
+
+102002-Tano C Icon 1
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102002.png)
+
+102004-Rainbown Dream Icon
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102004.png)
+
+102005-King Rider Icon
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102005.png)
+
+102006-Poseidon Icon
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102006.png)
