@@ -575,3 +575,12 @@ These icons belong to 1.00.06/1.50.00 but are available in 2.50.00
 102122-天使光輪 Icon
 
 ![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102122.png)
+
+# S02
+These icons belong to 2.00.06/2.50.00
+
+#### Collaboration
+
+Coming Soon: Under Construction
+
+![Fail](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/Assets/Fail.webp)
