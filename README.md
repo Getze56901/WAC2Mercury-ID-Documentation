@@ -11,7 +11,7 @@ a documentation about the Icons, NamePlate, Plate, Navigators IDs for W4CC4 Merc
        - [Collaboration](#Collaboration)
        - [Original](#Original)
      - [S02](#S02)
-       - [Collaboration](#Collaboration)
+       - [Collaboration 2](#Collaboration-2)
 # Where to locate the IDs?
 The table with the IDs is located in the folder Mercury\Content\Table (No details will be given on how to add this to the program and how to extract it)
 
@@ -580,7 +580,7 @@ These icons belong to 1.00.06/1.50.00 but are available in 2.50.00
 # S02
 These icons belong to 2.00.06/2.50.00
 
-#### Collaboration
+#### Collaboration 2
 
 Coming Soon: Under Construction
 
