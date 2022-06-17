@@ -295,3 +295,123 @@ These icons belong to 1.00.06/1.50.00 but are available in 2.50.00
 102006-Poseidon Icon
 
 ![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102006.png)
+
+102007-PARALLEL★PRISM Icon
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102007.png)
+
+102008-MEMORIZE Icon
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102008.png)
+
+102009-Illanai-Asorted
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102009.png)
+
+102010-SOLDIERS Icon
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102010.png)
+
+102011-Fight for the CORE Icon
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102011.png)
+
+102013-Let Your Dive Icon
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102013.png)
+
+102014-LEVATEIN Icon
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102014.png)
+
+102015-BIG HEAD BANG Icon
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102015.png)
+
+102016-QUON Icon
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102016.png)
+
+102017-HELL FLAME Icon
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102017.png)
+
+102018-Gate One Icon
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102018.png)
+
+102019-Are Your Ready Icon
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102019.png)
+
+102020-Over My Hand Icon
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102020.png)
+
+102021-Exitium Icon
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102021.png)
+
+102023-STAR Icon
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102023.png)
+
+102024-UnLocker Icon
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102024.png)
+
+102025-Feather Icon
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102025.png)
+
+102026-あいつ (Elizabeth Mascot Icon)
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102026.png)
+
+102027-Elizabeth Icon
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102027.png)
+
+102028-般若 (Prajñā Icon)
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102028.png)
+
+102029-Gear Icon
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102029.png)
+
+102030-Pulse Icon
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102030.png)
+
+102047-Elizabeth Chibi Icon 1
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102047.png)
+
+102048-Elizabeth Chibi Icon 2
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102048.png)
+
+102049-Elizabeth Chibi Icon 3
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102049.png)
+
+102050-HARDCORE TANO C Icon
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102050.png)
+
+102051-Elizbeth Chibi Icon 4
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102051.png)
+
+102052-Elizabeth Chibi Icon 5
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102052.png)
+
+102053-Cat Icon
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102053.png)
+
+102054-Dog Icon
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102054.png)
