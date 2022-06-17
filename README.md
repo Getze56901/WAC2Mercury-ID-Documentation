@@ -415,3 +415,79 @@ These icons belong to 1.00.06/1.50.00 but are available in 2.50.00
 102054-Dog Icon
 
 ![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102054.png)
+
+102055-『輪』Icon
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102055.png)
+
+102056-ATARAX1A Icon
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102056.png)
+
+102057-13 Donkeys Icon
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102057.png)
+
+102058-Invisible Frenzy Icon
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102058.png)
+
+102059-ADAM Icon
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102059.png)
+
+102060-Chariot Icon
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102060.png)
+
+102061-???
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102061.png)
+
+102062-HIGHER Icon
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102062.png)
+
+102063-GRIDGALAXY Icon
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102063.png)
+
+102064-BOOM! BOOM!! BOOM!!! Icon
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102064.png)
+
+102065-Sound Chimera Icon
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102065.png)
+
+102066-Sunshine Icon
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102066.png)
+
+102073-Jingle Death Icon
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102073.png)
+
+102074-Elizabeth With a Furisode 
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102074.png)
+
+102076-Crown Icon 1
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102076.png)
+
+102077-Crown Icon 2
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102077.png)
+
+102078-Course Level I
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102078.png)
+
+102079-Course Level II
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102079.png)
+
+102080-Course Level III
+
+![Icon](https://raw.githubusercontent.com/Getze56901/WAC2Mercury-ID-Documentation/master/IconS01Assets/S01ORIGINAL/102080.png)
