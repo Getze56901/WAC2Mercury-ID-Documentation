@@ -10,7 +10,8 @@ a documentation about the Icons, NamePlate, Plate, Navigators IDs for W4CC4 Merc
      - [S01](#S01)
        - [Collaboration](#Collaboration)
        - [Original](#Original)
-
+     - [S02](#S02)
+       - [Collaboration](#Collaboration)
 # Where to locate the IDs?
 The table with the IDs is located in the folder Mercury\Content\Table (No details will be given on how to add this to the program and how to extract it)
 
